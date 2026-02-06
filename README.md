@@ -9,6 +9,7 @@ The goal is to provide actionable insights for:
 - **Educators / trainers:** Align curricula with market demand to prepare job-ready graduates.  
 
 The analysis combines multiple datasets and SQL queries to link **job postings**, **skills**, and **salaries**.
+![Final Analysis](analysis.jpg)
 
 ---
 
